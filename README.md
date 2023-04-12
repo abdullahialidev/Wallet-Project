@@ -4,3 +4,5 @@ Creating a cryptocurrency application that allows users to track specific addres
 
 
 Tech used: Typescript, React, Node.JS, Express..
+
+Using Alchemy API 
